@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="webserviceutils1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/production/PacMan_v6.2/pacman/.metadata/.plugins/org.eclipse.pde.core/New_configuration/org.eclipse.osgi/512/0/.cp/webserviceutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/PacMan_v6.2/pacman/out/production/pacman/.metadata/.plugins/org.eclipse.pde.core/New_configuration/org.eclipse.osgi/512/0/.cp/webserviceutils.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

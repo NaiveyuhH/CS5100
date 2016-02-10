@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name=".mylyn2">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/production/PacMan_v6.2/pacman/.metadata/.mylyn/tasks.xml.zip!/" />
       <root url="jar://$PROJECT_DIR$/out/production/PacMan_v6.2/pacman/.metadata/.mylyn/.tasks.xml.zip!/" />
       <root url="jar://$PROJECT_DIR$/out/production/PacMan_v6.2/pacman/.metadata/.mylyn/repositories.xml.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/PacMan_v6.2/pacman/.metadata/.mylyn/tasks.xml.zip!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

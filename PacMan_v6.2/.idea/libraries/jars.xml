@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="jars">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/src/pacman/.metadata/.plugins/org.eclipse.pde.core/New_configuration/org.eclipse.osgi/73/0/.cp/jars/maven-aether-provider-3.1.0.jar!/" />
-      <root url="jar://$PROJECT_DIR$/src/pacman/.metadata/.plugins/org.eclipse.pde.core/New_configuration/org.eclipse.osgi/73/0/.cp/jars/plexus-utils-2.1.jar!/" />
-      <root url="jar://$PROJECT_DIR$/src/pacman/.metadata/.plugins/org.eclipse.pde.core/New_configuration/org.eclipse.osgi/73/0/.cp/jars/maven-repository-metadata-3.1.0.jar!/" />
-      <root url="jar://$PROJECT_DIR$/src/pacman/.metadata/.plugins/org.eclipse.pde.core/New_configuration/org.eclipse.osgi/73/0/.cp/jars/plexus-interpolation-1.16.jar!/" />
-      <root url="jar://$PROJECT_DIR$/src/pacman/.metadata/.plugins/org.eclipse.pde.core/New_configuration/org.eclipse.osgi/73/0/.cp/jars/maven-model-3.1.0.jar!/" />
-      <root url="jar://$PROJECT_DIR$/src/pacman/.metadata/.plugins/org.eclipse.pde.core/New_configuration/org.eclipse.osgi/73/0/.cp/jars/maven-model-builder-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/PacMan_v6.2/pacman/.metadata/.plugins/org.eclipse.pde.core/New_configuration/org.eclipse.osgi/73/0/.cp/jars/maven-model-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/PacMan_v6.2/pacman/.metadata/.plugins/org.eclipse.pde.core/New_configuration/org.eclipse.osgi/73/0/.cp/jars/maven-model-builder-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/PacMan_v6.2/pacman/.metadata/.plugins/org.eclipse.pde.core/New_configuration/org.eclipse.osgi/73/0/.cp/jars/plexus-utils-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/PacMan_v6.2/pacman/.metadata/.plugins/org.eclipse.pde.core/New_configuration/org.eclipse.osgi/73/0/.cp/jars/maven-repository-metadata-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/PacMan_v6.2/pacman/.metadata/.plugins/org.eclipse.pde.core/New_configuration/org.eclipse.osgi/73/0/.cp/jars/maven-aether-provider-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/PacMan_v6.2/pacman/.metadata/.plugins/org.eclipse.pde.core/New_configuration/org.eclipse.osgi/73/0/.cp/jars/plexus-interpolation-1.16.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

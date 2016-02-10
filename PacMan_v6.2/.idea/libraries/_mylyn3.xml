@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name=".mylyn3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/pacman/.metadata/.mylyn/repositories.xml.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/pacman/.metadata/.mylyn/tasks.xml.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/pacman/.metadata/.mylyn/.tasks.xml.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

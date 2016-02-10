@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="PacMan_v6.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/PacMan_v6.2/MyPacMan.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/PacMan_v6.2/MyGhosts.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

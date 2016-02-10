@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="repositories.xml">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/src/runtime-New_configuration/.metadata/.mylyn/repositories.xml.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/PacMan_v6.2/runtime-New_configuration/.metadata/.mylyn/repositories.xml.zip!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
